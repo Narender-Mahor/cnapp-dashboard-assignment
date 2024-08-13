@@ -1,0 +1,20 @@
+Step 1 - download vs code editor in your pc
+step 2 - in vs code on top section click terminal and then click new terminal
+step 3 - in terminal run command: - npm i
+some time to install node modules files be patient at least 1-2 minute depends on your internet speed
+
+step 4 - run command: - npm start
+and project will be started
+
+but you have any problem to run this assignment project plz visit this live link
+
+here is the live link in this project deployed on versel: - 
+this link is only work when you have sign in versel.com
+
+https://cnapp-dashboard-assignment.vercel.app/
+
+
+
+additional info:- 
+im adding all functionality for this assignment you say
+
